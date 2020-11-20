@@ -1,7 +1,7 @@
 {
   "name": "covid19-tracker",
   "version": "0.0.0",
-  "engines": {"node":"14.15.1"},
+  "engines": {"npm":"6.14.8"},
   
   "scripts": {
     "ng": "ng",
